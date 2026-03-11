@@ -5,7 +5,7 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
-  qs: 6.14.2
+  json-server@0.17.4>qs: 6.14.2
 
 importers:
 
